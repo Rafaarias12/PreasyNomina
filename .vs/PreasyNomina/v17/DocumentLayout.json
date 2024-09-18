@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\PreasyNomina\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|c:\\users\\dell\\source\\repos\\preasynomina\\api_nomina\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|solutionrelative:api_nomina\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|c:\\users\\dell\\source\\repos\\preasynomina\\api_nomina\\actions\\postdapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|solutionrelative:api_nomina\\actions\\postdapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA15E7B2-81E1-4AC4-BB77-4AA8875469F3}|SHARED_Nomina\\SHARED_Nomina.csproj|c:\\users\\dell\\source\\repos\\preasynomina\\shared_nomina\\dtos\\empleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA15E7B2-81E1-4AC4-BB77-4AA8875469F3}|SHARED_Nomina\\SHARED_Nomina.csproj|solutionrelative:shared_nomina\\dtos\\empleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|c:\\users\\dell\\source\\repos\\preasynomina\\api_nomina\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|solutionrelative:api_nomina\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|c:\\users\\dell\\source\\repos\\preasynomina\\api_nomina\\services\\empleadosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|solutionrelative:api_nomina\\services\\empleadosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|c:\\users\\dell\\source\\repos\\preasynomina\\api_nomina\\services\\interface\\iempleadosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|solutionrelative:api_nomina\\services\\interface\\iempleadosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmpleadosService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\PreasyNomina\\API_Nomina\\Services\\Interface\\IEmpleadosService.cs",
+              "RelativeDocumentMoniker": "API_Nomina\\Services\\Interface\\IEmpleadosService.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\PreasyNomina\\API_Nomina\\Services\\Interface\\IEmpleadosService.cs",
+              "RelativeToolTip": "API_Nomina\\Services\\Interface\\IEmpleadosService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T14:43:07.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpleadosService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\PreasyNomina\\API_Nomina\\Services\\EmpleadosService.cs",
+              "RelativeDocumentMoniker": "API_Nomina\\Services\\EmpleadosService.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\PreasyNomina\\API_Nomina\\Services\\EmpleadosService.cs",
+              "RelativeToolTip": "API_Nomina\\Services\\EmpleadosService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T14:42:44.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\PreasyNomina\\API_Nomina\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "API_Nomina\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\PreasyNomina\\API_Nomina\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "API_Nomina\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T14:42:31.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpleadoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\PreasyNomina\\SHARED_Nomina\\DTOs\\EmpleadoDTO.cs",
+              "RelativeDocumentMoniker": "SHARED_Nomina\\DTOs\\EmpleadoDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\PreasyNomina\\SHARED_Nomina\\DTOs\\EmpleadoDTO.cs",
+              "RelativeToolTip": "SHARED_Nomina\\DTOs\\EmpleadoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:24:27.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostDapper.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\PreasyNomina\\API_Nomina\\Actions\\PostDapper.cs",
+              "RelativeDocumentMoniker": "API_Nomina\\Actions\\PostDapper.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\PreasyNomina\\API_Nomina\\Actions\\PostDapper.cs",
+              "RelativeToolTip": "API_Nomina\\Actions\\PostDapper.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:03:43.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\PreasyNomina\\API_Nomina\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "API_Nomina\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\PreasyNomina\\API_Nomina\\Controllers\\UserController.cs",
+              "RelativeToolTip": "API_Nomina\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T04:54:27.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\PreasyNomina\SHARED_Nomina\bin\Release\net8.0\SHARED_Nomina.deps.json
+C:\Users\Dell\source\repos\PreasyNomina\SHARED_Nomina\bin\Release\net8.0\SHARED_Nomina.dll
+C:\Users\Dell\source\repos\PreasyNomina\SHARED_Nomina\bin\Release\net8.0\SHARED_Nomina.pdb
+C:\Users\Dell\source\repos\PreasyNomina\SHARED_Nomina\obj\Release\net8.0\SHARED_Nomina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\PreasyNomina\SHARED_Nomina\obj\Release\net8.0\SHARED_Nomina.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\PreasyNomina\SHARED_Nomina\obj\Release\net8.0\SHARED_Nomina.AssemblyInfo.cs
+C:\Users\Dell\source\repos\PreasyNomina\SHARED_Nomina\obj\Release\net8.0\SHARED_Nomina.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\PreasyNomina\SHARED_Nomina\obj\Release\net8.0\SHARED_Nomina.dll
+C:\Users\Dell\source\repos\PreasyNomina\SHARED_Nomina\obj\Release\net8.0\refint\SHARED_Nomina.dll
+C:\Users\Dell\source\repos\PreasyNomina\SHARED_Nomina\obj\Release\net8.0\SHARED_Nomina.pdb
+C:\Users\Dell\source\repos\PreasyNomina\SHARED_Nomina\obj\Release\net8.0\ref\SHARED_Nomina.dll

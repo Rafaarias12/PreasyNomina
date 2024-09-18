@@ -1,0 +1,3 @@
+C:\Users\Dell\source\repos\PreasyNomina\SHARED_Nomina\bin\Release\net8.0\publish\SHARED_Nomina.dll
+C:\Users\Dell\source\repos\PreasyNomina\SHARED_Nomina\bin\Release\net8.0\publish\SHARED_Nomina.deps.json
+C:\Users\Dell\source\repos\PreasyNomina\SHARED_Nomina\bin\Release\net8.0\publish\SHARED_Nomina.pdb
