@@ -54,5 +54,21 @@ namespace API_Nomina.Actions
 
             return rpta;
         }
+
+        //public Respuesta GetConsulta(string conexion, string sql)
+        //{
+        //    Respuesta rpta = new Respuesta();
+        //    try
+        //    {
+        //        using (SqlConnection con = new SqlConnection(conexion))
+        //        {
+
+        //        }
+        //    }
+        //    catch(Exception ex)
+        //    {
+
+        //    }
+        //}
     }
 }
