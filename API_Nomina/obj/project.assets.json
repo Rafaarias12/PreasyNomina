@@ -945,11 +945,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\PreasyNomina\\API_Nomina\\API_Nomina.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\PreasyNomina\\API_Nomina\\API_Nomina.csproj",
       "projectName": "API_Nomina",
-      "projectPath": "C:\\Users\\Dell\\source\\repos\\PreasyNomina\\API_Nomina\\API_Nomina.csproj",
+      "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\PreasyNomina\\API_Nomina\\API_Nomina.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\source\\repos\\PreasyNomina\\API_Nomina\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\PreasyNomina\\API_Nomina\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
@@ -974,8 +974,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Dell\\source\\repos\\PreasyNomina\\SHARED_Nomina\\SHARED_Nomina.csproj": {
-              "projectPath": "C:\\Users\\Dell\\source\\repos\\PreasyNomina\\SHARED_Nomina\\SHARED_Nomina.csproj"
+            "C:\\Users\\Dell\\Documents\\GitHub\\PreasyNomina\\SHARED_Nomina\\SHARED_Nomina.csproj": {
+              "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\PreasyNomina\\SHARED_Nomina\\SHARED_Nomina.csproj"
             }
           }
         }

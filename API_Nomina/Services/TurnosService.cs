@@ -12,18 +12,29 @@ namespace API_Nomina.Services
             conexion = config.GetConnectionString("Default");
         }
 
-        public Respuesta TurnoEmpleado()
-        {
-            Respuesta rpta = new Respuesta();
-            PostDapper post = new PostDapper();
+        //public Respuesta TurnoEmpleado()
+        //{
+        //    Respuesta rpta = new Respuesta();
+        //    PostDapper post = new PostDapper();
 
-            try
-            {
+        //    try
+        //    {
 
-            }
-            catch (Exception ex) {
+        //    }
+        //    catch (Exception ex) {
             
-            }
+        //    }
+        //}
+
+        public Respuesta ListTurnos()
+        {
+            string sql = "select * from turno";
+            GetDapper get = new GetDapper();
+            Respuesta rpta = new Respuesta();
+            rpta = get.GetConsulta(conexion, sql);
+            return rpta;
         }
+
+        
     }
 }

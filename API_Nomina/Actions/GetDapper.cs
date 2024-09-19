@@ -55,20 +55,24 @@ namespace API_Nomina.Actions
             return rpta;
         }
 
-        //public Respuesta GetConsulta(string conexion, string sql)
-        //{
-        //    Respuesta rpta = new Respuesta();
-        //    try
-        //    {
-        //        using (SqlConnection con = new SqlConnection(conexion))
-        //        {
-
-        //        }
-        //    }
-        //    catch(Exception ex)
-        //    {
-
-        //    }
-        //}
+        public Respuesta GetConsulta(string conexion, string sql)
+        {
+            Respuesta rpta = new Respuesta();
+            try
+            {
+                using (SqlConnection con = new SqlConnection(conexion))
+                {
+                    var lst = con.Query(sql);
+                    rpta.Data = lst;
+                    rpta.Exito = 1;
+                }
+            }
+            catch (Exception ex)
+            {
+                rpta.Exito = 0;
+                rpta.Mensaje = ex.Message;
+            }
+            return rpta;
+        }
     }
 }
