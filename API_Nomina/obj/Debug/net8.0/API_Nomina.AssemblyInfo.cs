@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API_Nomina")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73161d7420a15b408d2732f9a6675610ff1118bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28df3fabda3d1c395bebef0d115a69ec336742b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("API_Nomina")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API_Nomina")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

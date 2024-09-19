@@ -21,6 +21,12 @@ builder.Services.AddScoped<IEmpleadosService, EmpleadosService>(provider =>
     return new EmpleadosService(configuration);
 });
 
+builder.Services.AddScoped<ITurnosService, TurnosService>(provider =>
+{
+    var configuration = provider.GetRequiredService<IConfiguration>();
+    return new TurnosService(configuration);
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
