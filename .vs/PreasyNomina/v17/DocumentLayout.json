@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Dell\\Documents\\GitHub\\PreasyNomina\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|c:\\users\\dell\\documents\\github\\preasynomina\\api_nomina\\services\\gestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|solutionrelative:api_nomina\\services\\gestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|c:\\users\\dell\\documents\\github\\preasynomina\\api_nomina\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|solutionrelative:api_nomina\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|c:\\users\\dell\\documents\\github\\preasynomina\\api_nomina\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|solutionrelative:api_nomina\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|c:\\users\\dell\\documents\\github\\preasynomina\\api_nomina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|solutionrelative:api_nomina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|c:\\users\\dell\\documents\\github\\preasynomina\\api_nomina\\services\\turnosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|solutionrelative:api_nomina\\services\\turnosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|c:\\users\\dell\\documents\\github\\preasynomina\\api_nomina\\services\\interface\\iturnosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|solutionrelative:api_nomina\\services\\interface\\iturnosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|c:\\users\\dell\\documents\\github\\preasynomina\\api_nomina\\services\\usuariosservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|solutionrelative:api_nomina\\services\\usuariosservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|c:\\users\\dell\\documents\\github\\preasynomina\\api_nomina\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|solutionrelative:api_nomina\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|c:\\users\\dell\\documents\\github\\preasynomina\\api_nomina\\services\\turnosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|solutionrelative:api_nomina\\services\\turnosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +38,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestionService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\PreasyNomina\\API_Nomina\\Services\\GestionService.cs",
+              "RelativeDocumentMoniker": "API_Nomina\\Services\\GestionService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\PreasyNomina\\API_Nomina\\Services\\GestionService.cs",
+              "RelativeToolTip": "API_Nomina\\Services\\GestionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T22:39:53.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TurnosService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\PreasyNomina\\API_Nomina\\Services\\TurnosService.cs",
+              "RelativeDocumentMoniker": "API_Nomina\\Services\\TurnosService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\PreasyNomina\\API_Nomina\\Services\\TurnosService.cs",
+              "RelativeToolTip": "API_Nomina\\Services\\TurnosService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:46:08.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\PreasyNomina\\API_Nomina\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "API_Nomina\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\PreasyNomina\\API_Nomina\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "API_Nomina\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwDYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T17:40:21.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\PreasyNomina\\API_Nomina\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "API_Nomina\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\PreasyNomina\\API_Nomina\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "API_Nomina\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAzwCcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T05:39:07.351Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -40,61 +98,34 @@
               "RelativeDocumentMoniker": "API_Nomina\\Services\\UsuariosServices.cs",
               "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\PreasyNomina\\API_Nomina\\Services\\UsuariosServices.cs",
               "RelativeToolTip": "API_Nomina\\Services\\UsuariosServices.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAgwA4AAAAAAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwEcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T17:29:09.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T17:29:09.728Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\PreasyNomina\\API_Nomina\\Program.cs",
               "RelativeDocumentMoniker": "API_Nomina\\Program.cs",
               "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\PreasyNomina\\API_Nomina\\Program.cs",
               "RelativeToolTip": "API_Nomina\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T17:27:00.407Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\PreasyNomina\\API_Nomina\\appsettings.json",
               "RelativeDocumentMoniker": "API_Nomina\\appsettings.json",
               "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\PreasyNomina\\API_Nomina\\appsettings.json",
               "RelativeToolTip": "API_Nomina\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-09-19T16:14:01.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TurnosService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\PreasyNomina\\API_Nomina\\Services\\TurnosService.cs",
-              "RelativeDocumentMoniker": "API_Nomina\\Services\\TurnosService.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\PreasyNomina\\API_Nomina\\Services\\TurnosService.cs",
-              "RelativeToolTip": "API_Nomina\\Services\\TurnosService.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAzwCgAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T04:56:54.383Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ITurnosService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\PreasyNomina\\API_Nomina\\Services\\Interface\\ITurnosService.cs",
-              "RelativeDocumentMoniker": "API_Nomina\\Services\\Interface\\ITurnosService.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\PreasyNomina\\API_Nomina\\Services\\Interface\\ITurnosService.cs",
-              "RelativeToolTip": "API_Nomina\\Services\\Interface\\ITurnosService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T21:05:22.61Z",
               "EditorCaption": ""
             }
           ]
