@@ -15,7 +15,7 @@ namespace API_Nomina.Controllers
             empleadosService = _empleadosService;
         }
 
-        [HttpGet]
+        [HttpGet("/area")]
         public IActionResult GetEmpleados() { 
             Respuesta rpta = new Respuesta();
             try

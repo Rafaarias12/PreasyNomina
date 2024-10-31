@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SHARED_Nomina")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28df3fabda3d1c395bebef0d115a69ec336742b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc096f1a72693eec53774cf037cd467ea24e17e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("SHARED_Nomina")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SHARED_Nomina")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

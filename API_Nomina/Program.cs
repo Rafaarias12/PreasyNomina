@@ -27,6 +27,12 @@ builder.Services.AddScoped<ITurnosService, TurnosService>(provider =>
     return new TurnosService(configuration);
 });
 
+builder.Services.AddScoped<IGestionService, GestionService>(provider =>
+{
+    var configuration = provider.GetRequiredService<IConfiguration>();
+    return new GestionService(configuration);
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -38,5 +44,11 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+
+app.UseCors(x => x
+    .AllowAnyMethod()
+    .AllowAnyHeader()
+    .SetIsOriginAllowed(origin => true)
+    .AllowCredentials());
 
 app.Run();
