@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Dell\\Documents\\GitHub\\PreasyNomina\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|c:\\users\\dell\\documents\\github\\preasynomina\\api_nomina\\controllers\\gestioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|solutionrelative:api_nomina\\controllers\\gestioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|c:\\users\\dell\\documents\\github\\preasynomina\\api_nomina\\services\\gestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|solutionrelative:api_nomina\\services\\gestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|c:\\users\\dell\\documents\\github\\preasynomina\\api_nomina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|solutionrelative:api_nomina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|c:\\users\\dell\\documents\\github\\preasynomina\\api_nomina\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A2E55AE-F7F0-416D-AB8D-EA10CFE7C05F}|API_Nomina\\API_Nomina.csproj|solutionrelative:api_nomina\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestionService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\PreasyNomina\\API_Nomina\\Services\\GestionService.cs",
+              "RelativeDocumentMoniker": "API_Nomina\\Services\\GestionService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\PreasyNomina\\API_Nomina\\Services\\GestionService.cs",
+              "RelativeToolTip": "API_Nomina\\Services\\GestionService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwD0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T02:19:32.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GestionController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\PreasyNomina\\API_Nomina\\Controllers\\GestionController.cs",
+              "RelativeDocumentMoniker": "API_Nomina\\Controllers\\GestionController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\PreasyNomina\\API_Nomina\\Controllers\\GestionController.cs",
+              "RelativeToolTip": "API_Nomina\\Controllers\\GestionController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwDoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T02:16:58.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\PreasyNomina\\API_Nomina\\appsettings.json",
+              "RelativeDocumentMoniker": "API_Nomina\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\PreasyNomina\\API_Nomina\\appsettings.json",
+              "RelativeToolTip": "API_Nomina\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-09T20:42:16.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\PreasyNomina\\API_Nomina\\Program.cs",
               "RelativeDocumentMoniker": "API_Nomina\\Program.cs",
               "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\PreasyNomina\\API_Nomina\\Program.cs",
               "RelativeToolTip": "API_Nomina\\Program.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAADYAAAAAAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T03:06:56.68Z",
               "EditorCaption": ""

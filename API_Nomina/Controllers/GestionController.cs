@@ -33,5 +33,45 @@ namespace API_Nomina.Controllers
                 return BadRequest(ex.Message);
             }
         }
+
+        [HttpGet("turno")]
+        public ActionResult GetTurno()
+        {
+            Respuesta rpta = new Respuesta();
+            try
+            {
+                rpta = gestionService.GetTurnos();
+                if (rpta.Exito == 0)
+                {
+                    return BadRequest(rpta);
+                }
+                return Ok(rpta);
+            }
+            catch (Exception ex)
+            {
+                rpta.Mensaje = ex.Message;
+                return BadRequest(ex.Message);
+            }
+        }
+
+        [HttpGet("jerarquia")]
+        public ActionResult GetJerarquia()
+        {
+            Respuesta rpta = new Respuesta();
+            try
+            {
+                rpta = gestionService.GetJerarquias();
+                if(rpta.Exito == 0)
+                {
+                    return BadRequest(rpta);
+                }
+                return Ok(rpta);
+            }
+            catch (Exception ex)
+            {
+                rpta.Mensaje = ex.Message;
+                return BadRequest(ex.Message);
+            }
+        }
     }
 }
